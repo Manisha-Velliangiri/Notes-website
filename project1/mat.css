@@ -1,0 +1,23 @@
+.main-mat .heading{
+    padding: 100px;   
+    background-color: lightcoral;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    text-align: center;
+    color: black;
+}
+.main-mat .mat1{
+    padding: 50px;
+    background-color: crimson;
+    text-align: center;
+}
+.main-mat .mat2{
+    padding: 50px;
+    background-color: crimson;
+    text-align: center;
+}
+.main-mat .mat3{
+    padding: 50px;
+    background-color: crimson;
+    text-align: center;
+}

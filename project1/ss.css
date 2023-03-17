@@ -1,0 +1,23 @@
+.main-ss .heading{
+    padding: 100px;   
+    background-color: lightcoral;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    text-align: center;
+    color: black;
+}
+.main-ss .ss1{
+    padding: 50px;
+    background-color: crimson;
+    text-align: center;
+}
+.main-ss .ss2{
+    padding: 50px;
+    background-color: crimson;
+    text-align: center;
+}
+.main-ss .ss3{
+    padding: 50px;
+    background-color: crimson;
+    text-align: center;
+}

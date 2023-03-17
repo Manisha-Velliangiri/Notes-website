@@ -1,0 +1,23 @@
+.main-eng .headingeng{
+    padding: 100px;   
+    background-color: lightcoral;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    text-align: center;
+    color: black;
+}
+.main-eng .eng1{
+    padding: 50px;
+    background-color: crimson;
+    text-align: center;
+}
+.main-eng .eng2{
+    padding: 50px;
+    background-color: crimson;
+    text-align: center;
+}
+.main-eng  .eng3{
+    padding: 50px;
+    background-color: crimson;
+    text-align: center;
+}
